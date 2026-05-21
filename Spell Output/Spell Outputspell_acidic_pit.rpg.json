@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "acidic_pit",
+    "name": { "value": "Acidic Pit" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_3" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "120 feet." },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "You open a pit filled with acid at a point within range. All creatures within 10 feet of the point must make a Dexterity saving throw. On failure, they fall 5 feet into a pit of acid below, taking 6d4 + 6 acid damage. On success, a creature takes half as much damage from the flooding acid and it can use its reaction to move up to its movement speed to the closest point outside of the area. If it cannot take a reaction or reach a safe point, it automatically fails its saving throw.\\n\\nWhen a creature ends their turn in the pit, that creature takes 2d4 acid damage. The acid in the pit remains potent for 1 minute, after which it becomes simply vile sludge that deals no further damage. The pit remains filled with vile sludge until filled or cleared." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

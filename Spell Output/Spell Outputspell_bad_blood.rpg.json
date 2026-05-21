@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "bad_blood",
+    "name": { "value": "Bad Blood" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_1" },
+    "school": { "value": "spell_school_necromancy" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "60 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "\\n\\n\\n\\nTargeting a creature you can see within range, you attempt to corrupt its blood. Creatures without blood are immune to this effect. The target must make a Constitution saving throw. On failure, they take 1d12 poison damage and become poisoned for the duration.\\n\\nAt the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target, on failure; they take an additional 1d4 poison as the poison continues to ravage them.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional target for each slot level above 2nd. The targets must be within 30 feet of each other when you target them." },
+    "classes": { "value": ["druid", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

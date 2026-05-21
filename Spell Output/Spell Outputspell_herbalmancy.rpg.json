@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "herbalmancy",
+    "name": { "value": "Herbalmancy" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_0" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Action" },
+    "range": { "value": "Touch" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "The plants limbs, leaves and roots gently rearrange themselves to take positions that you choose.\\n\\nYou learn which parts of the plant are edible or poisonous.\\n\\nYou gain a fleeting vision of the last creature that touched the plant.\\n\\nThe plant grows as though a month of time has passed. A plant can only grow once in this manner.\\n\\nYou learn what beasts have passed within 10 feet of the plant within the last week.\\n\\nThe plant indicates the direction of the nearest source of fresh water.\\n\\nYou harmlessly extract a pint of sap or syrup from the plant if it is Medium or larger. After you use this feature on a plant, you can’t use it again on that plant until 24 hours have passed." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "ranger"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

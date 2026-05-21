@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "crashing_wave",
+    "name": { "value": "Crashing Wave" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_1" },
+    "school": { "value": "spell_school_conjuration" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self (20 foot cone)" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nA wave of water sweeps out from you. Each creature in a 20-foot cone must make a Strength saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is knocked 10 feet away from you. If a creature is knocked into a wall, another creature, or fails by 5 or more, it is additionally knocked prone. On a successful save, the creature takes half as much damage and is not knocked back. If there is a source of water of at least 5 cubic feet within 5 feet of you when you cast the spell, you can displace that water, increasing the range of the spell to a 25 foot cone.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell lot of 2nd level or higher, the damage increases by 1d6 for each level above 1st." },
+    "classes": { "value": ["druid", "sorcerer", "wizard."] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

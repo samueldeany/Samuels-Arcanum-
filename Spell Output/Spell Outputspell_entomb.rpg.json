@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "entomb",
+    "name": { "value": "Entomb" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_1" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "60 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou attempt to encase a Medium or smaller creature you can see within ice. The creature must make a Strength saving throw or become restrained by ice for the duration. At the end of each of its turns, the target takes 1d8 cold damage and can make another Strength saving throw. On success, the spell ends on the target.\\n\\nIf the creature takes more than 5 fire or bludgeoning damage from a single damage roll while restrained, the ice breaks and the target is freed, ending the spell for the target.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st." },
+    "classes": { "value": ["wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

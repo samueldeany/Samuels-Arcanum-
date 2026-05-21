@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "evolve",
+    "name": { "value": "Evolve" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_3" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 bonus action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "As you cast this spell your form begins to mutate and change rapidly, gaining new capabilities. Choose three features from those listed below. Some features can be chosen multiple times in place of a different feature. The effect of choosing a feature multiple times is listed in its description\\n\\nAt higher levels. You may choose an additional feature for every spell level above 3rd." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

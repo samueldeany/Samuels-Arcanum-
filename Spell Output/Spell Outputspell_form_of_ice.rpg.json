@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "form_of_ice",
+    "name": { "value": "Form of Ice" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_6" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "Concentration, up to 10 minutes" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou are immune to cold damage.\\n\\nYou can move across difficult terrain created by ice or snow without spending extra movement.\\n\\nThe ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.\\n\\nYou can use your action to create a 30-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d8 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.\\n\\nDuring your turn, if you roll cold damage, you gain temporary hit points equal to one die rolled (your choice)." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

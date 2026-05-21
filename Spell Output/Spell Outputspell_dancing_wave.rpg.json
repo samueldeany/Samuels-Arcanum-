@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "dancing_wave",
+    "name": { "value": "Dancing Wave" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_2" },
+    "school": { "value": "spell_school_conjuration" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "30 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou summon a surging mass of water into existence at a point on the ground within range. The mass of water remains cohesive filling a 5 foot radius, though only rises 3 feet from the ground. The area is difficult terrain for any creature without a swimming speed.\\n\\nFor the duration of the spell, as a bonus action you can move the wave of water up to 30 feet along a surface in any direction. The first time the wave enters any creature's space during your turn, they must make a Strength saving throw or take 2d6 bludgeoning damage and be knocked prone. A creature automatically fails this saving throw if they are prone." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

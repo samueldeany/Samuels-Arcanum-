@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "arctic_breath",
+    "name": { "value": "Arctic Breath" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_1" },
+    "school": { "value": "spell_school_conjuration" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self (30 foot line)" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nA line of freezing arctic wind 30 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. On a failed save, a creature takes 2d8 cold damage and their movement speed is reduced by 10 feet until the end of their next turn. On a successful save, a creature takes half as much damage and isn't slowed.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st." },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "become_stone",
+    "name": { "value": "Become Stone" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_2" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 bonus action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "1 round" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou solidify into a stone. Until the start of your next turn, you are petrified. Your AC becomes 20 and you gain 10 temporary hit points. Any remaining temporary hit points fade when the spell ends.\\n\\nPetrified Resistance\\n\\nNote that being petrified - while coming with substantial drawbacks, makes you resistant to all damage." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

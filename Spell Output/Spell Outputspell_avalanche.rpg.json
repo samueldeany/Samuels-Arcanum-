@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "avalanche",
+    "name": { "value": "Avalanche" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_6" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self (60 foot line)" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou cause the earth to ripple, triggering an avalanche of rock and stone to surge forward in a 60 foot long, 15 foot wide line. The length of the line is doubled if the cast on the surface has more than a 15 degree downward slope (a moderately steep hill). Creatures caught in the surging tumble of rocks must make a Dexterity saving throw. Creatures that fail their save take 6d10 bludgeoning damage and are knocked prone. Creatures that fail by 5 or more are stunned until the end of their next turn, and creatures that fail by 10 or more are additionally knocked to the closest free space at the end of the line created by the spell. On a successful save, a creature takes half as much damage and suffers none of the spell’s other effects.\\n\\nThe spell creates a 15 by 15 foot area of difficult terrain at the end of the line created by the spell.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d10 for each slot level above 6th." },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "death_touch",
+    "name": { "value": "Death Touch" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_4" },
+    "school": { "value": "spell_school_necromancy" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Action" },
+    "range": { "value": "Touch" },
+    "duration": { "value": "1 minute" },
+    "verbal": { "value": false },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "You touch a creature and send deadly poison coursing through its veins. The target must succeed on a Constitution saving throw or have the Poisoned condition for 1 minute.\\n\\nWhile Poisoned in this way, the creature takes 3d12 Necrotic damage at the start of each of its turns, and repeats this saving throw at the end of each of its turns, ending the condition on a success." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["artificer", "cleric", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

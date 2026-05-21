@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "ethereal_immolation",
+    "name": { "value": "Ethereal Immolation" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_2" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Action" },
+    "range": { "value": "120 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou shroud a target in visible ethereal power that reacts violently to the presence of magic. For the duration of the spell, if the target casts a spell, they must make a Constitution saving throw, taking 1d12 force damage per level of spell slot spent (1d12 for cantrips) on a failure or half on a success. If the target ends their turn while concentrating on a spell, they take 1d4 force damage." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["sorcerer"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

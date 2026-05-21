@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "aether_storm",
+    "name": { "value": "Aether Storm" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_5" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Action" },
+    "range": { "value": "120 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou conjure a storm of aether erupting from a point of your choice within range. The aether storm fills a 10-foot radius, 40-foot-high cylinder. When the storm appears, each creature within its area takes 8d4 force damage. When a creature moves into or through the storm, it takes 2d4 force damage for every 5 feet it travels, and whenever a creature ends its turn in the storm it takes an additional 8d4 force damage.\\n\\nOn each subsequent turn for the duration of the spell as a bonus action, you can move the storm 15 feet in any direction and cause it to fling forth a hail of force bolts that seek out up to 3 targets of your choice within 15 feet of the storm. Each creature targeted takes 3d4 + 3 force damage from the force bolts.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 6th level or higher, the damage of the storm and bolts increases by 1d4 for each slot level above 5th." },
+    "classes": { "value": ["sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

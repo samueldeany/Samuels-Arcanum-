@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "aero_barrage",
+    "name": { "value": "Aero Barrage" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_4" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Action" },
+    "range": { "value": "120 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "You create four lances of rapidly spinning condensed wind and hurl them at targets within range. You can hurl them at one target or several.\\n\\nMake a ranged spell attack for each lance. On a hit, the target takes 2d8 slashing damage and is knocked 10 feet backwards.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 5th level or higher, you create one additional lance for each slot level above 4th." },
+    "classes": { "value": ["sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

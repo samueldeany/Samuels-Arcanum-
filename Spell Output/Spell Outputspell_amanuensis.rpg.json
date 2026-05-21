@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "amanuensis",
+    "name": { "value": "Amanuensis" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_0" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "10 feet" },
+    "duration": { "value": "1 minute" },
+    "verbal": { "value": false },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "You cause nonmagical text (up to 250 words) from one source to be copied into a book, paper, or parchment for 1 minute. Multiple castings can continue this effect for as long as you have available material.\\n\\nYou create a magical sensor in the air that records all speech within 30 feet in a book, paper, or parchment for 1 minute. Multiple castings can continue this effect for as long as you have available material.\\n\\nYou touch an item containing some form of text and speak a word or phrase. For 1 minute, all references to that word or phrase glow luminously where present on or in the item.\\n\\nYou graffiti text onto any surface, using the ink from the material component. The message can be up to 25 words long and 10 feet on a side, in any language and style you know, and lasts until worn or washed away. This expends the material component.\\n\\nYou create a single illustration on a page or parchment, limited to the colour of the ink used in the material component and your own artistic ability.\\n\\nIf you cast this spell multiple times, you can have up to three of its effects active at a time, and you can dismiss such an effect with an action." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["artificer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

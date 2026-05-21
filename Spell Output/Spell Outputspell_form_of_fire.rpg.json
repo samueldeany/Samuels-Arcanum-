@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "form_of_fire",
+    "name": { "value": "Form of Fire" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_6" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "Concentration, up to 10 minutes" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou are immune to fire damage.\\n\\nYou can move through the space of other creatures and ignore difficult terrain. The first time on your turn you enter the space of another creature, it takes 1d6 fire damage.\\n\\nIf a creature within 5 feet hits you with a melee attack, it takes 1d6 fire damage.\\n\\nYou can use your action to create a line of fire 30 feet long and 5 feet wide extending from you in a direction of your choice. Each creature in the line must make a Dexterity saving throw. A creature takes 6d6 fire damage on a failed save, or half as much damage on a successful one.\\n\\nDuring your turn, if you roll fire damage, you can maximize one die of the fire damage dealt." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "costume",
+    "name": { "value": "Costume" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_0" },
+    "school": { "value": "spell_school_illusion" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "Your hair/facial hair seems to change length and/or style\\n\\nYou appear to alter the colour of your hair, lips, skin or eyes\\n\\nYou fabricate a small facial blemish such as a scar\\n\\nYou fabricate a distinctive body marking or tattoo\\n\\nThe changes wrought by this spell fail to hold up to physical inspection.\\n\\nIf you cast this spell multiple times you can have up to three of its effects active at a time, and you can dismiss any or all of these effects as an action.\\n\\nAssassin magic" },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}
