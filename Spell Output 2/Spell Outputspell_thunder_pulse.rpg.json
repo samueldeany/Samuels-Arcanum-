@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "thunder_pulse",
+    "name": { "value": "Thunder Pulse" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_3" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self (15-foot cone)" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou gather sonic energy and can expel as a shockwave in a 15 foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 thunder damage is knocked 10 feet away. On a successful save, the creature takes half as much damage and is not knocked away.\\n\\nYou can create a new shockwave as your action on subsequent turns until the spell ends.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd." },
+    "classes": { "value": ["bard", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

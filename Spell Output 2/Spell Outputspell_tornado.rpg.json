@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "tornado",
+    "name": { "value": "Tornado" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_5" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "120 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "A whirling tornado erupts, filling a 20-foot-radius, 40-foot-high cylinder centred on a point within range.\\n\\nAny creature that starts its turn within the tornado must make a Strength saving throw. On a failed save, the creature takes 4d8 bludgeoning damage and is pushed 10 feet away and 40 feet up. On a successful save, the creature takes half as much damage and isn't pushed.\\n\\nAs a bonus action, you can move the tornado up to 30 feet in any direction. Any ranged weapon attack against a target within 20 feet of the tornado has disadvantage, and any ranged attack that passes through it automatically misses." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

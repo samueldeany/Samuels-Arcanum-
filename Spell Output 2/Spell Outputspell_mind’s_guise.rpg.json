@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "mind’s_guise",
+    "name": { "value": "Mind’s Guise" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_5" },
+    "school": { "value": "spell_school_illusion" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 minute (Ritual)" },
+    "range": { "value": "Self" },
+    "duration": { "value": "8 hours" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "You imagine a persona to occupy the outer reaches of your mind, warding against telepathic intrusion. For the duration, you can’t be compelled to speak truthfully or be prevented from lying, and a creature that attempts to read your mind must succeed on an Intelligence saving throw or perceive it as though it were the mind of your imagined persona. If a spell attempts to compel you to speak truthfully then that creature must also make an Intelligence saving throw, or perceive that you failed your save and therefore must be speaking truthfully.\\n\\nA creature making multiple attempts to read your mind encounters the same result; it can’t repeat this saving throw until you cast the spell again.\\n\\nThe spell does not allow you to detect when creatures are attempting to read your mind." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["bard", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

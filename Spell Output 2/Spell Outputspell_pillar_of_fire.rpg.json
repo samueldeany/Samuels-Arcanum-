@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "pillar_of_fire",
+    "name": { "value": "Pillar of Fire" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_4" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "120 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nA pillar of fire in a 5-foot-radius, 30-foot-high cylinder centered on a point within range. Each creature in the cylinder in the must make a Dexterity saving throw. A creature takes 10d6 fire damage on a failed save, or half as much on a successful save.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th." },
+    "classes": { "value": ["sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

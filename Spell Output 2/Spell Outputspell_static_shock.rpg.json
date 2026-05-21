@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "static_shock",
+    "name": { "value": "Static Shock" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_0" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "60 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": false },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "You unleash a jolt of lightning at one target within range. The target must make a Dexterity saving throw. On a failure, the target takes 1d8 lightning damage and lightning arcs from that target to a different target of your choice you can see within 5 feet of the first target. The second target takes half of the initial lightning damage (minimum 1).\\n\\nThis spell’s damage increases when you reach 5th level (2d8), 11th level (3d8) and 17th level (4d8)." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["artificer", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

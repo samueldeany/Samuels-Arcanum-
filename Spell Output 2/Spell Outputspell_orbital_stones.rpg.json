@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "orbital_stones",
+    "name": { "value": "Orbital Stones" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_4" },
+    "school": { "value": "spell_school_transmutation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou lift three inanimate Small or Medium sized rocks or similar objects from within 10 feet of you, causing them to defy gravity and slowly circle you. With all three stones orbiting, you have three quarters cover. With at least one stone remaining, you have half cover.\\n\\nAs a bonus action while at least one stone remains in orbit, you can magically fling a stone at target within 60 feet. Make a ranged spell attack roll. On hit, the target takes 3d10 bludgeoning damage and is knocked backward 5 feet." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

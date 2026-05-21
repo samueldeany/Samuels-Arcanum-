@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "seeking_orb",
+    "name": { "value": "Seeking Orb" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_2" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "5 feet" },
+    "duration": { "value": "Concentration, up to 1 minute" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou create a Tiny orb of pure arcane energy that hovers within range, and designate a target creature within 120 feet. For the duration of the spell, at the end of each of your turns, the orb grows larger and moves 20 feet directly toward the creature. If the orb reaches the target, it detonates dealing 4d4 force damage and an additional 2d4 damage for each round since you cast the spell to the target up to a maximum of 10d4. The spell ends after it deals damage. If the orb does not reach the target before the spell ends, it fades away without dealing damage. The orb is impervious to damage or any other effects." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "shattering_shield",
+    "name": { "value": "Shattering Shield" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_2" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 reaction, which you can take when a creature within range is hit by a melee attack." },
+    "range": { "value": "60 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou cause a shield of ice to erupt blocking the attack. The damage of the attack is reduced by 1d8 + your spellcasting modifier. If the attack damage is not completely blocked, the shield shatters, dealing the amount of blocked damage as cold damage to the attacking creature. If the shield is not broken, it melts away after blocking the damage.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 3rd level or higher, the amount of damage blocked increases by 1d8 for each slot level above 2nd." },
+    "classes": { "value": ["druid", "sorcerer", "warlock"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

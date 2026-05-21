@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "mana_tithe",
+    "name": { "value": "Mana Tithe" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_4" },
+    "school": { "value": "spell_school_abjuration" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 Bonus Action" },
+    "range": { "value": "60 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": true },
+    "description": { "value": "You attempt to bleed away a creatures reserves of magic, forcing it to make a Charisma Saving Throw. On a failure, the target must expend one spell slot levels worth of spell slots for each point that it failed by.\\n\\nA creature that can’t do so loses all of its spell slots and is Dazed until the end of its next turn." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["cleric", "paladin", "warlock"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "water_cannon",
+    "name": { "value": "Water Cannon" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_3" },
+    "school": { "value": "spell_school_evocation" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "Self (40-foot line)" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou unleash a spout of water that blasts out in a line 60-foot-long and 5 foot-wide-line. Creatures in the area must make a Strength saving throw, or take 6d6 bludgeoning damage and be pushed to an open space at the end of the line away from you. If there is no open space to move to (for example they would move into a wall or another creature), they are pushed to the closest space and take an additional 2d6 bludgeoning damage and are knocked prone. On a successful save, they take half as much damage and are not pushed.\\n\\n" },
+    "higher_level_description": { "value": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each level about 3rd." },
+    "classes": { "value": ["druid", "sorcerer", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}

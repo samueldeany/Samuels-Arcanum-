@@ -1,0 +1,22 @@
+{
+  "resource_id": "spell",
+  "stats": {
+    "id": "water_bullet",
+    "name": { "value": "Water Bullet" },
+    "source": { "value": "Samuels Arcanum" },
+    "level": { "value": "spell_level_0" },
+    "school": { "value": "spell_school_conjuration" },
+    "ritual": { "value": false },
+    "casting_time": { "value": "1 action" },
+    "range": { "value": "90 feet" },
+    "duration": { "value": "Instantaneous" },
+    "verbal": { "value": true },
+    "somatic": { "value": true },
+    "material": { "value": false },
+    "description": { "value": "\\n\\n\\n\\nYou create a compressed bead of water and fire it at a creature you can see within range. Make a ranged spell attack. On hit, the target takes 1d6 + your spellcasting ability modifier piercing damage.\\n\\nThis spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)." },
+    "higher_level_description": { "value": "" },
+    "classes": { "value": ["druid", "sorcerer", "warlock", "wizard"] },
+    "dice": { "value": [] },
+    "updated_at": { "value": "2026-05-21T20:19:54.000000" }
+  }
+}
