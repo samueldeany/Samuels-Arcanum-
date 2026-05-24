@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {
+      "id": "acidic_pit",
+      "name": "Acidic Pit",
+      "path": "resources/spell_acidic_pit_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "acid_bubble",
+      "name": "Acid Bubble",
+      "path": "resources/spell_acid_bubble_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "acid_rain",
+      "name": "Acid Rain",
+      "path": "resources/spell_acid_rain_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "aero_barrage",
+      "name": "Aero Barrage",
+      "path": "resources/spell_aero_barrage_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "aether_lance",
+      "name": "Aether Lance",
+      "path": "resources/spell_aether_lance_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "aether_storm",
+      "name": "Aether Storm",
+      "path": "resources/spell_aether_storm_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "amanuensis",
+      "name": "Amanuensis",
+      "path": "resources/spell_amanuensis_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "arctic_aura",
+      "name": "Arctic Aura",
+      "path": "resources/spell_arctic_aura_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    },
+    {
+      "id": "arctic_breath",
+      "name": "Arctic Breath",
+      "path": "resources/spell_arctic_breath_samuels_arcanum.rpg",
+      "updated_at": "2026-05-24T21:50:32.000000"
+    }
+  ]
+}
