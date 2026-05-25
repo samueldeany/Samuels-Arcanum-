@@ -1,6 +1,12 @@
 {
   "resources": [
     {
+      "id": "Samuels Arcanum",
+      "name": "source_sa",
+      "path": "resources/source_source_sa.rpg",
+      "updated_at": "2026-05-25T08:05:38.931813"
+    },
+    {
       "id": "acidic_pit",
       "name": "Acidic Pit",
       "path": "resources/spell_acidic_pit_samuels_arcanum.rpg",
