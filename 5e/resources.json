@@ -607,12 +607,6 @@
       "updated_at": "2026-05-25T10:54:01.000000"
     },
     {
-      "id": "static_shock",
-      "name": "Static Shock",
-      "path": "resources/spell_static_shock_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
-    },
-    {
       "id": "stinging_swarm",
       "name": "Stinging Swarm",
       "path": "resources/spell_stinging_swarm_samuels_arcanum.rpg",
