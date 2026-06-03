@@ -7,6 +7,14 @@
       "version": "dev",
       "min_app_version": "1.2.0",
       "path": "5e"
+    },
+    {
+      "id": "5e",
+      "name": "5e",
+      "abbreviation": "5e",
+      "version": "dev",
+      "min_app_version": "1.2.0",
+      "path": "5e2024"
     }
   ]
 }
