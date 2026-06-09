@@ -1,736 +1,736 @@
 {
   "resources": [
     {
-      "id": "Samuels Arcanum",
+      "id": "sa",
       "name": "source_sa",
       "path": "resources/source_source_sa.rpg",
-      "updated_at": "2026-05-25T08:05:38.931813"
+      "updated_at": "2025-01-10T08:05:38.931813"
     },
     {
       "id": "acidic_pit",
       "name": "Acidic Pit",
       "path": "resources/spell_acidic_pit_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "acid_bubble",
       "name": "Acid Bubble",
       "path": "resources/spell_acid_bubble_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "acid_rain",
       "name": "Acid Rain",
       "path": "resources/spell_acid_rain_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "aero_barrage",
       "name": "Aero Barrage",
       "path": "resources/spell_aero_barrage_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "aether_lance",
       "name": "Aether Lance",
       "path": "resources/spell_aether_lance_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "aether_storm",
       "name": "Aether Storm",
       "path": "resources/spell_aether_storm_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "amanuensis",
       "name": "Amanuensis",
       "path": "resources/spell_amanuensis_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "arctic_aura",
       "name": "Arctic Aura",
       "path": "resources/spell_arctic_aura_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "arctic_breath",
       "name": "Arctic Breath",
       "path": "resources/spell_arctic_breath_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "avalanche",
       "name": "Avalanche",
       "path": "resources/spell_avalanche_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "bad_blood",
       "name": "Bad Blood",
       "path": "resources/spell_bad_blood_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "become_fire",
       "name": "Become Fire",
       "path": "resources/spell_become_fire_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "become_stone",
       "name": "Become Stone",
       "path": "resources/spell_become_stone_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "become_water",
       "name": "Become Water",
       "path": "resources/spell_become_water_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "become_wind",
       "name": "Become Wind",
       "path": "resources/spell_become_wind_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "blizzard",
       "name": "Blizzard",
       "path": "resources/spell_blizzard_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "bloodbound_step",
       "name": "Bloodbound Step",
       "path": "resources/spell_bloodbound_step_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "blood_compass",
       "name": "Blood Compass",
       "path": "resources/spell_blood_compass_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "blood_covenant",
       "name": "Blood Covenant",
       "path": "resources/spell_blood_covenant_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "burial_barrage",
       "name": "Burial Barrage",
       "path": "resources/spell_burial_barrage_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "cold_snap",
       "name": "Cold Snap",
       "path": "resources/spell_cold_snap_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "corpse_explosion",
       "name": "Corpse explosion",
       "path": "resources/spell_corpse_explosion_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "costume",
       "name": "Costume",
       "path": "resources/spell_costume_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "crackle",
       "name": "Crackle",
       "path": "resources/spell_crackle_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "crashing_wave",
       "name": "Crashing Wave",
       "path": "resources/spell_crashing_wave_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "create_pit",
       "name": "Create Pit",
       "path": "resources/spell_create_pit_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "dancing_wave",
       "name": "Dancing Wave",
       "path": "resources/spell_dancing_wave_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "daze",
       "name": "Daze",
       "path": "resources/spell_daze_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "death_touch",
       "name": "Death Touch",
       "path": "resources/spell_death_touch_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "dragon_surge",
       "name": "Dragon Surge",
       "path": "resources/spell_dragon_surge_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "draining_seed",
       "name": "Draining Seed",
       "path": "resources/spell_draining_seed_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "dust_cyclone",
       "name": "Dust Cyclone",
       "path": "resources/spell_dust_cyclone_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "earth_ripple",
       "name": "Earth Ripple",
       "path": "resources/spell_earth_ripple_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "echoing_lance",
       "name": "Echoing Lance",
       "path": "resources/spell_echoing_lance_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "electric_arc",
       "name": "Electric Arc",
       "path": "resources/spell_electric_arc_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "electrify",
       "name": "Electrify",
       "path": "resources/spell_electrify_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "electrocute",
       "name": "Electrocute",
       "path": "resources/spell_electrocute_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "elemental_orb",
       "name": "Elemental Orb",
       "path": "resources/spell_elemental_orb_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "entomb",
       "name": "Entomb",
       "path": "resources/spell_entomb_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "erode",
       "name": "Erode",
       "path": "resources/spell_erode_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "ethereal_immolation",
       "name": "Ethereal Immolation",
       "path": "resources/spell_ethereal_immolation_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "evolve",
       "name": "Evolve",
       "path": "resources/spell_evolve_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "eyes_of_immolation",
       "name": "Eyes of Immolation",
       "path": "resources/spell_eyes_of_immolation_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "fire_cyclone",
       "name": "Fire Cyclone",
       "path": "resources/spell_fire_cyclone_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "fissure",
       "name": "Fissure",
       "path": "resources/spell_fissure_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "flamethrower",
       "name": "Flamethrower",
       "path": "resources/spell_flamethrower_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "flash_freeze",
       "name": "Flash Freeze",
       "path": "resources/spell_flash_freeze_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "force_blade",
       "name": "Force Blade",
       "path": "resources/spell_force_blade_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "force_bolt",
       "name": "Force Bolt",
       "path": "resources/spell_force_bolt_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_fire",
       "name": "Form of Fire",
       "path": "resources/spell_form_of_fire_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_ice",
       "name": "Form of Ice",
       "path": "resources/spell_form_of_ice_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_stone",
       "name": "Form of Stone",
       "path": "resources/spell_form_of_stone_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_the_elements",
       "name": "Form of the Elements",
       "path": "resources/spell_form_of_the_elements_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_water",
       "name": "Form of Water",
       "path": "resources/spell_form_of_water_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "form_of_wind",
       "name": "Form of Wind",
       "path": "resources/spell_form_of_wind_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "gale_bolt",
       "name": "Gale Bolt",
       "path": "resources/spell_gale_bolt_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "geyser",
       "name": "Geyser",
       "path": "resources/spell_geyser_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "herbalmancy",
       "name": "Herbalmancy",
       "path": "resources/spell_herbalmancy_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "hurricane_slash",
       "name": "Hurricane Slash",
       "path": "resources/spell_hurricane_slash_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "ice_arrow",
       "name": "Ice Arrow",
       "path": "resources/spell_ice_arrow_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "ice_spike",
       "name": "Ice Spike",
       "path": "resources/spell_ice_spike_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "instant_bulwark",
       "name": "Instant Bulwark",
       "path": "resources/spell_instant_bulwark_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "jumping_jolt",
       "name": "Jumping Jolt",
       "path": "resources/spell_jumping_jolt_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "lightning_charged",
       "name": "Lightning Charged",
       "path": "resources/spell_lightning_charged_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "lightning_tendril",
       "name": "Lightning Tendril",
       "path": "resources/spell_lightning_tendril_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "mana_tithe",
       "name": "Mana Tithe",
       "path": "resources/spell_mana_tithe_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "melt",
       "name": "Melt",
       "path": "resources/spell_melt_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "melting_glob",
       "name": "Melting Glob",
       "path": "resources/spell_melting_glob_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "memory_vault",
       "name": "Memory Vault",
       "path": "resources/spell_memory_vault_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "mind's_guise",
       "name": "Mind's Guise",
       "path": "resources/spell_mind_s_guise_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "mushroom_madness",
       "name": "Mushroom Madness",
       "path": "resources/spell_mushroom_madness_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "nauseating_poison",
       "name": "Nauseating Poison",
       "path": "resources/spell_nauseating_poison_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "needle_storm",
       "name": "Needle Storm",
       "path": "resources/spell_needle_storm_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "orbital_stones",
       "name": "Orbital Stones",
       "path": "resources/spell_orbital_stones_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "pillar_of_fire",
       "name": "Pillar of Fire",
       "path": "resources/spell_pillar_of_fire_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "poison_dart",
       "name": "Poison Dart",
       "path": "resources/spell_poison_dart_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "poison_puff",
       "name": "Poison Puff",
       "path": "resources/spell_poison_puff_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "pollen_burst",
       "name": "Pollen Burst",
       "path": "resources/spell_pollen_burst_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "power_torrent",
       "name": "Power Torrent",
       "path": "resources/spell_power_torrent_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "prediction",
       "name": "Prediction",
       "path": "resources/spell_prediction_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "pressure_cutter",
       "name": "Pressure Cutter",
       "path": "resources/spell_pressure_cutter_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "pseudopod_slam",
       "name": "Pseudopod Slam",
       "path": "resources/spell_pseudopod_slam_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "pyroclastic_lance",
       "name": "Pyroclastic Lance",
       "path": "resources/spell_pyroclastic_lance_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "quicksand",
       "name": "Quicksand",
       "path": "resources/spell_quicksand_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "reconstruction_of_years",
       "name": "Reconstruction of years",
       "path": "resources/spell_reconstruction_of_years_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "restless_death",
       "name": "Restless Death",
       "path": "resources/spell_restless_death_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "rock_slam",
       "name": "Rock Slam",
       "path": "resources/spell_rock_slam_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:56:29.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "root_boulder",
       "name": "Root Boulder",
       "path": "resources/spell_root_boulder_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "sap_bomb",
       "name": "Sap Bomb",
       "path": "resources/spell_sap_bomb_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "scrutinise",
       "name": "Scrutinise",
       "path": "resources/spell_scrutinise_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "seal_fate",
       "name": "Seal Fate",
       "path": "resources/spell_seal_fate_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "seeking_orb",
       "name": "Seeking Orb",
       "path": "resources/spell_seeking_orb_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "seismic_wave",
       "name": "Seismic Wave",
       "path": "resources/spell_seismic_wave_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "shattering_shield",
       "name": "Shattering Shield",
       "path": "resources/spell_shattering_shield_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "sky_burst",
       "name": "Sky Burst",
       "path": "resources/spell_sky_burst_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "smoke_trick",
       "name": "Smoke Trick",
       "path": "resources/spell_smoke_trick_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "sonic_shriek",
       "name": "Sonic Shriek",
       "path": "resources/spell_sonic_shriek_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "spider_bite",
       "name": "Spider Bite",
       "path": "resources/spell_spider_bite_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "star_dust",
       "name": "Star Dust",
       "path": "resources/spell_star_dust_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "static_field",
       "name": "Static Field",
       "path": "resources/spell_static_field_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "stinging_swarm",
       "name": "Stinging Swarm",
       "path": "resources/spell_stinging_swarm_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "stone_coffin",
       "name": "Stone Coffin",
       "path": "resources/spell_stone_coffin_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "stone_fist",
       "name": "Stone Fist",
       "path": "resources/spell_stone_fist_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "stone_forming",
       "name": "Stone Forming",
       "path": "resources/spell_stone_forming_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "suffocate",
       "name": "Suffocate",
       "path": "resources/spell_suffocate_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "thunder_pulse",
       "name": "Thunder Pulse",
       "path": "resources/spell_thunder_pulse_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "thunder_punch",
       "name": "Thunder Punch",
       "path": "resources/spell_thunder_punch_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "tornado",
       "name": "Tornado",
       "path": "resources/spell_tornado_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "ulgrin's_mind_of_mercury",
       "name": "Ulgrin's mind of mercury",
       "path": "resources/spell_ulgrin_s_mind_of_mercury_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "unstable_explosion",
       "name": "Unstable Explosion",
       "path": "resources/spell_unstable_explosion_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "vacuum_pull",
       "name": "Vacuum Pull",
       "path": "resources/spell_vacuum_pull_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "vicious_vapours",
       "name": "Vicious Vapours",
       "path": "resources/spell_vicious_vapours_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "violent_updraft",
       "name": "Violent Updraft",
       "path": "resources/spell_violent_updraft_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "volcanic_burst",
       "name": "Volcanic Burst",
       "path": "resources/spell_volcanic_burst_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "vortex_blast",
       "name": "Vortex Blast",
       "path": "resources/spell_vortex_blast_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "wasp_barrage",
       "name": "Wasp Barrage",
       "path": "resources/spell_wasp_barrage_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "waterspout",
       "name": "Waterspout",
       "path": "resources/spell_waterspout_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "water_blast",
       "name": "Water Blast",
       "path": "resources/spell_water_blast_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "water_bullet",
       "name": "Water Bullet",
       "path": "resources/spell_water_bullet_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "water_cannon",
       "name": "Water Cannon",
       "path": "resources/spell_water_cannon_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     },
     {
       "id": "windborne_weapon",
       "name": "Windborne Weapon",
       "path": "resources/spell_windborne_weapon_samuels_arcanum.rpg",
-      "updated_at": "2026-05-25T10:54:01.000000"
+      "updated_at": "2026-05-25T13:44:26.000000"
     }
   ]
 }
