@@ -1,0 +1,33 @@
+{
+  "system": "5e2024",
+  "resource_id": "feat",
+  "stats": {
+    "name": {
+      "value": "Mountaineer"
+    },
+    "source": {
+      "value": "Samuels Arcanum"
+    },
+    "descriptions": {
+      "value": [
+        {
+          "system": "5e2024",
+          "resource_id": "levelled_description",
+          "stats": {
+            "description": {
+              "value": "No peak is beyond your reach. You gain the following benefits:\n\n* You gain a climbing speed equal to your walking speed.\n\n* You can reduce any falling damage that you take by an amount equal to your character level\n\n* You gain advantage on any Strength (Athletics) checks you make in relation to climbing."
+            },
+            "id": "5dde77d2-d157-40b8-a968-7020af30baed"
+          }
+        }
+      ]
+    },
+    "effects": {
+      "value": []
+    },
+    "updated_at": {
+      "value": "2026-12-20T18:50:28.390252"
+    },
+    "id": "Mountaineer"
+  }
+}

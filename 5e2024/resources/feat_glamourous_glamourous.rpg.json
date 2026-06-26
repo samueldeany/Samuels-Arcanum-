@@ -1,0 +1,39 @@
+{
+  "system": "5e2024",
+  "resource_id": "feat",
+  "stats": {
+    "name": {
+      "value": "Glamourous"
+    },
+    "source": {
+      "value": "Samuels Arcanum"
+    },
+    "type": {
+      "value": "origin"
+    },
+        "prerequisites": {
+      "value": "Charisma score of 13 or higher"
+    },
+    "descriptions": {
+      "value": [
+        {
+          "system": "5e2024",
+          "resource_id": "levelled_description",
+          "stats": {
+            "description": {
+              "value": "While wearing a set of fine clothes, you gain the following benefits:\n\n* You are considered proficient in any Charisma check made to interact with a creature that can see you. If you're already proficient with such a skill, your proficiency is doubled.\n\n* Other creatures within 30 feet of you have disadvantage on Wisdom (Perception) checks made to perceive any creature other than you while they can see you."
+            },
+            "id": "5dde77d2-d157-40b8-a968-7020af30baed"
+          }
+        }
+      ]
+    },
+    "effects": {
+      "value": []
+    },
+    "updated_at": {
+      "value": "2026-12-20T18:50:28.390252"
+    },
+    "id": "Glamourous"
+  }
+}

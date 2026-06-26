@@ -1,0 +1,33 @@
+{
+  "system": "5e2024",
+  "resource_id": "feat",
+  "stats": {
+    "name": {
+      "value": "Killer Shot"
+    },
+    "source": {
+      "value": "Samuels Arcanum"
+    },
+    "descriptions": {
+      "value": [
+        {
+          "system": "5e2024",
+          "resource_id": "levelled_description",
+          "stats": {
+            "description": {
+              "value": "You gain the following benefits.\n\n* Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.\n\n* On your turn, when you score a critical hit with a ranged weapon or reduce a creature to 0 hit points with one, you can make one additional ranged weapon attack as a bonus action."
+            },
+            "id": "5dde77d2-d157-40b8-a968-7020af30baed"
+          }
+        }
+      ]
+    },
+    "effects": {
+      "value": []
+    },
+    "updated_at": {
+      "value": "2026-12-20T18:50:28.390252"
+    },
+    "id": "Killer Shot"
+  }
+}
