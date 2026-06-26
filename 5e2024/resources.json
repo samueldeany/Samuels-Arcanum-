@@ -3,67 +3,109 @@
     {
       "id": "Attunement Master",
       "name": "Attunement Master",
-      "path": "resources/feat_attunement_master_s_a.rpg",
+      "path": "resources/feat_attunement_master_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Blessed soul",
+      "name": "Blessed soul",
+      "path": "resources/feat_blessed_soul_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Enigmatic",
       "name": "Enigmatic",
-      "path": "resources/feat_enigmatic_s_a.rpg",
+      "path": "resources/feat_enigmatic_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Fletcher",
       "name": "Fletcher",
-      "path": "resources/feat_fletcher_s_a.rpg",
+      "path": "resources/feat_fletcher_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Game Hunter",
       "name": "Game Hunter",
-      "path": "resources/feat_game_hunter_s_a.rpg",
+      "path": "resources/feat_game_hunter_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Glamourous",
+      "name": "Glamourous",
+      "path": "resources/feat_glamourous_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Haggler",
       "name": "Haggler",
-      "path": "resources/feat_haggler_s_a.rpg",
+      "path": "resources/feat_haggler_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Hardy",
+      "name": "Hardy",
+      "path": "resources/feat_hardy_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Immovable",
       "name": "Immovable",
-      "path": "resources/feat_immovable_s_a.rpg",
+      "path": "resources/feat_immovable_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Insomniac",
       "name": "Insomniac",
-      "path": "resources/feat_insomniac_s_a.rpg",
+      "path": "resources/feat_insomniac_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Killer Shot",
       "name": "Killer Shot",
-      "path": "resources/feat_killer_shot_s_a.rpg",
+      "path": "resources/feat_killer_shot_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Legendary Endurance",
       "name": "Legendary Endurance",
-      "path": "resources/feat_legendary_endurance_s_a.rpg",
+      "path": "resources/feat_legendary_endurance_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Linguist",
+      "name": "Linguist",
+      "path": "resources/feat_linguist_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Magic Specialist",
+      "name": "Magic Specialist",
+      "path": "resources/feat_magic_specialist_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Mariner",
       "name": "Mariner",
-      "path": "resources/feat_mariner_s_a.rpg",
+      "path": "resources/feat_mariner_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
       "id": "Mountaineer",
       "name": "Mountaineer",
-      "path": "resources/feat_mountaineer_s_a.rpg",
+      "path": "resources/feat_mountaineer_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Mystic",
+      "name": "Mystic",
+      "path": "resources/feat_mystic_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "Watchful",
+      "name": "Watchful",
+      "path": "resources/feat_watchful_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
