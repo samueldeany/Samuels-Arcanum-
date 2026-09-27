@@ -103,10 +103,22 @@
       "updated_at": "2026-12-20T18:50:28.390252"
     },
     {
+      "id": "Skulker",
+      "name": "Skulker",
+      "path": "resources/feat_skulker_samuels_arcanum.rpg",
+      "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
       "id": "Watchful",
       "name": "Watchful",
       "path": "resources/feat_watchful_samuels_arcanum.rpg",
       "updated_at": "2026-12-20T18:50:28.390252"
+    },
+    {
+      "id": "8ce16577-43f7-4656-a17e-bec3b69f617b",
+      "name": "Dove Staff",
+      "path": "resources/weapon_dove_staff_samuels_arcanum.rpg",
+      "updated_at": "2026-09-27T18:02:55.283506"
     },
     {
       "id": "Samuels Arcanum",
